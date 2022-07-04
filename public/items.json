@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Special Pasta",
+    "shortDescription": "A standard tape measure is used for all kinds of field measurements, such as setting heights for switches and outlets,",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/12b0Xbb/menu3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Special Soup",
+    "shortDescription": "A hammer is used to secure electrical boxes equipped with nail-on brackets to wall studs and other framing members in a home. You’ll also need one to drive wire staples when anchoring new electrical cable to framing members.",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/tq60g0r/menu2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Special Salads",
+    "shortDescription": "A small level, such as a torpedo level, fits easily in a tool pouch and is used to make sure your work is level and plumb. A great installation starts with level boxes and straight switch and outlet receptacles.",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/J7zncsj/menu1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Special Pasta",
+    "shortDescription": "Electrical repair and improvement work involves a lot of dark places, from attics and basements, to wall and ceiling cavities, to the insides of electrical boxes. A tactical flashlight is needed as much for safety as it is for convenience.",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/zbfrrL3/menu6.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Special Soup",
+    "shortDescription": "A utility knife, or box cutter, is handy for cutting sheathing from non-metallic (Romex) cable, to cut off electrical tape, and to open cardboard boxes.",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/d2xQwpn/menu5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Special Salads",
+    "shortDescription": "Electrical repair and improvement work involves a lot of dark places, from attics and basements, to wall and ceiling cavities, to the insides of electrical boxes. A tactical flashlight is needed as much for safety as it is for convenience.",
+    "minimum-quantity": 5,
+    "available-quantity": 10,
+    "price": 100,
+    "img": "https://i.ibb.co/Y88n8rf/menu4.jpg"
+  }
+]

@@ -1,0 +1,9 @@
+.cardEffect{
+  overflow: hidden;
+}
+.cardImg{
+  transition: 0.5s;
+}
+.cardImg:hover{
+  transform: scale(1.1);
+}
