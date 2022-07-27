@@ -10,7 +10,7 @@ const Banner = () => {
           <div>
             <h1 class="text-4xl font-bold uppercase mt-3 text-info">your chooces our priority</h1>
             <p class="py-3 pr-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente harum praesentium vero eos autem accusamus nisi tempore, sed odio aspernatur itaque in, voluptate necessitatibus maiores sint corrupti quia fugiat ullam?</p>
-            <button class="btn btn-info text-white">Registration</button>
+            <a class="btn btn-info text-white" href='/registration'>Registration</a>
           </div>
         </div>
       </div>
