@@ -13,7 +13,7 @@ const Product = ({product}) => {
           <p>singleItemsPrice $ :{price}</p>
           <p>shortDescription: {shortDescription.slice(0, 100)}</p>
           <div class="card-actions justify-end">
-            <a class="btn btn-secondary" href=''>Order Now</a>
+            <a class="btn btn-secondary" href='/singleproduct'>Order Now</a>
           </div>
         </div>
       </div>
