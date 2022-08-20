@@ -114,7 +114,10 @@ const Login = () => {
                 </form>
                 <p><small>New to Food Baaz? <a className='text-info' href="/registration">Create New Account</a></small></p>
                 <div className="divider">OR</div>
-                <button className="btn btn-outline">Continue with Google</button>
+                <button
+                  onClick={() => signInWithGoogle()}
+                  className="btn btn-outline"
+                >Continue with Google</button>
               </div>
             </div>
           </div >
